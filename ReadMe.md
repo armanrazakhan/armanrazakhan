@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanrazakhan&label=Profile%20views&color=0e75b6&style=flat" alt="armanrazakhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanrazakhan" alt="armanrazakhan" /></a> </p>
-
 - 🔭 I’m currently working on SquidGame on minecraft for [legitpixel](https://legitpixel.fun)
 
 - 🌱 I’m currently learning AI **Deepseek | GPT 4**
