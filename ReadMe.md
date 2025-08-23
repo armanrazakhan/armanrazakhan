@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanrazakhan&label=Profile%20views&color=0e75b6&style=flat" alt="armanrazakhan" /> </p>
 
-- 🔭 I’m currently working on SquidGame on minecraft for [legitpixel](https://legitpixel.fun)
+- 🔭 I’m currently working on Skyblock Remake for [Legitpixel](https://legitpixel.fun)
 
-- 🌱 I’m currently learning AI **Deepseek | GPT 4**
+- 🌱 I’m currently learning **MINESTOM**
 
 - 👯 I’m looking to collaborate on **Minecraft Development**
 
