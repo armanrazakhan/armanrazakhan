@@ -1,79 +1,88 @@
-<h1 align="center">Hi 👋, I'm Arman Khan</h1>
-<h3 align="center">Java Developer | Minecraft Backend & Network Systems</h3>
+<h1 align="center">Arman Khan</h1>
+<h3 align="center">Minecraft Backend Engineer • Java Developer • Network Systems</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=armanrazakhan&label=Profile%20views&color=0e75b6&style=flat" alt="armanrazakhan" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=armanrazakhan&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 Minecraft developer focused on **Velocity, Paper, and backend systems**
-- ⚡ I build **full server networks, proxy cores, and minigames**
-- 🧠 Coding since years with strong experience in **Java & server architecture**
-- 🔧 Experienced with **LuckPerms, MySQL, Discord integrations, APIs**
+## ⚡ About Me
+I specialize in building **scalable Minecraft server networks** with a strong focus on backend architecture, performance, and system design.  
+My work revolves around creating **complete ecosystems** — from proxy cores to minigames and database-driven systems.
+
+- 🚀 Experienced in **full network development (proxy → backend → gameplay)**
+- ⚙️ Strong focus on **performance, clean architecture, and scalability**
+- 🧩 Build advanced systems like **moderation tools, messaging, rank systems, and integrations**
+- 🔗 Deep experience with **LuckPerms, MySQL, Discord APIs, and cross-server systems**
 
 ---
 
-### 🔭 Current Work
-- Working on **Skyblock Remake for LegitPixel**
+## 🔭 Current Focus
+- Developing **Skyblock Remake** for LegitPixel  
+- Exploring **Minestom** for modern server architecture  
 
 ---
 
-### 🌱 Currently Learning
-- **Minestom (modern Minecraft server engine)**
+## 🧠 Core Expertise
+
+### 💻 Languages
+`Java` `Python` `JavaScript` `HTML` `CSS`
+
+### ⚙️ Minecraft Stack
+`Velocity` `Paper` `Spigot` `BungeeCord` `Minestom`
+
+### 🗄️ Backend & Systems
+`MySQL` `MongoDB` `REST APIs` `Discord Webhooks`
 
 ---
 
-### 👯 Collaboration
-- Looking to collaborate on **Minecraft plugins, cores, and networks**
+## 🏗️ Notable Work
+
+- ⚡ **LegitPixel Network**
+  - Built the **entire proxy core (solo)**
+  - Contributed to **LobbyCore**
+  - Improved **Skyblock systems + custom features**
+
+- ⚡ **FinePixel Network**
+  - Developed **complete backend system**
+  - Built:
+    - Bedwars  
+    - The Pit  
+    - Lobby Core  
+    - Core systems (chat, ranks, moderation)
+
+- ⚡ **Custom Development**
+  - Discord Sync Plugin (LuckPerms ↔ Discord roles)
+  - Advanced Moderation Systems
+  - Private Messaging & Staff Tools
+  - Custom Rank & Permission Systems
 
 ---
 
-### 📫 Contact
-- Email: **ak1338697@gmail.com**
-- Discord: **armanrazakhan**
+## 🤝 Collaboration
+Open to working on:
+- Minecraft Networks
+- Core Systems & Infrastructure
+- Custom Plugins & Backend Development
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-- Java
-- Python
-- JavaScript
-- HTML & CSS
-
-#### ⚙️ Minecraft Development
-- Paper / Spigot
-- Velocity
-- BungeeCord
-- Minestom
-
-#### 🗄️ Database & Backend
-- MySQL
-- MongoDB
+## 📫 Contact
+- 📧 Email: **ak1338697@gmail.com**
+- 💬 Discord: **armanrazakhan**
 
 ---
 
-### 📌 Projects
-- ⚡ LegitPixel Proxy Core (Solo)
-- ⚡ FinePixel Core (Full Network System)
-- ⚡ Bedwars, The Pit, Skyblock Systems
-- ⚡ Discord Sync Plugin (Rank ↔ Role sync)
-- ⚡ Moderation Systems & Staff Tools
+## 🌐 GitHub
+https://github.com/armanrazakhan
 
 ---
 
-### 🌐 GitHub
-👉 https://github.com/armanrazakhan?tab=repositories
-
----
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanrazakhan&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armanrazakhan&layout=compact&theme=dark" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanrazakhan&" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanrazakhan&theme=dark" />
 </p>
