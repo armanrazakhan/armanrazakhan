@@ -1,26 +1,79 @@
-<h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">Java Developer | Minecraft Plugins, Mods, and More</h3>
+<h1 align="center">Hi 👋, I'm Arman Khan</h1>
+<h3 align="center">Java Developer | Minecraft Backend & Network Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanrazakhan&label=Profile%20views&color=0e75b6&style=flat" alt="armanrazakhan" /> </p>
-
-- 🔭 I’m currently working on Skyblock Remake for [Legitpixel](https://legitpixel.fun)
-
-- 🌱 I’m currently learning **MINESTOM**
-
-- 👯 I’m looking to collaborate on **Minecraft Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/armanrazakhan?tab=repositories](https://github.com/armanrazakhan?tab=repositories)
-
-- 📫 How to reach me **ak1338697@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/@armanrazakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@armanrazakhan" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=armanrazakhan&label=Profile%20views&color=0e75b6&style=flat" alt="armanrazakhan" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanrazakhan&show_icons=true&locale=en&layout=compact" alt="armanrazakhan" /></p>
+### 🚀 About Me
+- 💻 Minecraft developer focused on **Velocity, Paper, and backend systems**
+- ⚡ I build **full server networks, proxy cores, and minigames**
+- 🧠 Coding since years with strong experience in **Java & server architecture**
+- 🔧 Experienced with **LuckPerms, MySQL, Discord integrations, APIs**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanrazakhan&" alt="armanrazakhan" /></p>
+---
+
+### 🔭 Current Work
+- Working on **Skyblock Remake for LegitPixel**
+
+---
+
+### 🌱 Currently Learning
+- **Minestom (modern Minecraft server engine)**
+
+---
+
+### 👯 Collaboration
+- Looking to collaborate on **Minecraft plugins, cores, and networks**
+
+---
+
+### 📫 Contact
+- Email: **ak1338697@gmail.com**
+- Discord: **armanrazakhan**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+- Java
+- Python
+- JavaScript
+- HTML & CSS
+
+#### ⚙️ Minecraft Development
+- Paper / Spigot
+- Velocity
+- BungeeCord
+- Minestom
+
+#### 🗄️ Database & Backend
+- MySQL
+- MongoDB
+
+---
+
+### 📌 Projects
+- ⚡ LegitPixel Proxy Core (Solo)
+- ⚡ FinePixel Core (Full Network System)
+- ⚡ Bedwars, The Pit, Skyblock Systems
+- ⚡ Discord Sync Plugin (Rank ↔ Role sync)
+- ⚡ Moderation Systems & Staff Tools
+
+---
+
+### 🌐 GitHub
+👉 https://github.com/armanrazakhan?tab=repositories
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanrazakhan&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanrazakhan&" />
+</p>
